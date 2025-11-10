@@ -90,7 +90,7 @@ fun FuelCalculatorScreen(modifier: Modifier = Modifier) {
     ) {
         // Título
         Text(
-            text = "Calcular Média do Consumo de Combustível",
+            text = "Calcular Média de Consumo de Combustível",
             style = MaterialTheme.typography.headlineSmall,
             modifier = Modifier
                 .padding(all = 16.dp,),
